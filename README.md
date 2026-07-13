@@ -1,6 +1,6 @@
 # Daisy Controller Software (DCS) Jupyter Notebooks
 
-Quick start guides and example scripts for the [Scalables Daisy lab automation platform](https://scalables.com) using the Daisy Controller Software by Scalables.
+Quick start guides and example scripts for the Daisy lab automation platform using the Daisy Controller Software by [Scalables](https://scalables.com).
 
 ## Requirements
 
